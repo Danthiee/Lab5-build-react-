@@ -1,12 +1,12 @@
-import Exercise0_1 from "./Exercise0.1/index.js";
-import Exercise0_2 from "./Exercise0.2/index.js";
+import React3 from "./react3/index";
+import React6 from "./react6/index";
 
 function App() {
   return (
     <div className="App">
-      <Exercise0_1 />
+      <React3 />
       <hr />
-      <Exercise0_2 />
+      <React6 />
     </div>
   );
 }
